@@ -28,7 +28,7 @@ Output Format
 
 For each command of type print, print the list on a new line.
 
-##### Sample Input 0
+##### Sample Input
 
 12
 insert 0 5
@@ -44,7 +44,7 @@ pop
 reverse
 print
 
-##### Sample Output 0
+##### Sample Output
 
 [6, 5, 10]
 [1, 5, 9, 10]
