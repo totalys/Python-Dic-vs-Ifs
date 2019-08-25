@@ -3,6 +3,12 @@ Lambda dictionaries versus sequential ifs
 
 ## The files of this repository represents way to solve this problem presented in hackerranck.com.
 
+## The tests results from running 500 times each code was:
+25.099 seconds for dictionary
+34.788 seconds for sequential ifs
+
+### Submits with others implementations are welcome
+
 ### Challenge
 Consider a list (list = []). You can perform the following commands:
 
